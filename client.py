@@ -1,7 +1,5 @@
 from json import load, dumps
 from typing import Union
-from aiohttp import payload
-from numpy import broadcast
 from paho.mqtt import client
 from os.path import isfile
 
